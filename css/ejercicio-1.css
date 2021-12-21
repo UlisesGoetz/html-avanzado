@@ -1,0 +1,21 @@
+
+.all{
+    background-color: green;
+    width: 1000px;
+  height: 1000px;
+  border: 10px solid grey;
+}
+.texto{
+    padding-left: 50px;
+    color: white;
+}
+.formulario{
+    color: white;
+    border-color: red;
+    width: 100px;
+    margin-left: 60px;
+}
+.formulario-in{
+    border-color: red;
+    margin-left: 60px;
+}
